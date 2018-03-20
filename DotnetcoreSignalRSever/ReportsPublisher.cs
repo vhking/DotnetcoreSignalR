@@ -7,7 +7,8 @@ namespace DotnetcoreSignalRSever
     {
         public Task PublishReport(string reportName)
         {
-            return Clients.All.InvokeAsync("OnReportPublished", reportName);
+            //return Clients.All.InvokeAsync("OnReportPublished", reportName);
+            return Clients.All.SendAsync("OnReportPublished", reportName);
         }
     }
 }

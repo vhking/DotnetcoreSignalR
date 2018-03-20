@@ -1,0 +1,10 @@
+C:\Users\helt0\Documents\Visual Studio 2017\Projects\DotnetcoreSignalR\DotnetcoreSignalRClient\bin\Debug\netcoreapp2.0\DotnetcoreSignalRClient.deps.json
+C:\Users\helt0\Documents\Visual Studio 2017\Projects\DotnetcoreSignalR\DotnetcoreSignalRClient\bin\Debug\netcoreapp2.0\DotnetcoreSignalRClient.runtimeconfig.json
+C:\Users\helt0\Documents\Visual Studio 2017\Projects\DotnetcoreSignalR\DotnetcoreSignalRClient\bin\Debug\netcoreapp2.0\DotnetcoreSignalRClient.runtimeconfig.dev.json
+C:\Users\helt0\Documents\Visual Studio 2017\Projects\DotnetcoreSignalR\DotnetcoreSignalRClient\bin\Debug\netcoreapp2.0\DotnetcoreSignalRClient.dll
+C:\Users\helt0\Documents\Visual Studio 2017\Projects\DotnetcoreSignalR\DotnetcoreSignalRClient\bin\Debug\netcoreapp2.0\DotnetcoreSignalRClient.pdb
+C:\Users\helt0\Documents\Visual Studio 2017\Projects\DotnetcoreSignalR\DotnetcoreSignalRClient\obj\Debug\netcoreapp2.0\DotnetcoreSignalRClient.csproj.CoreCompileInputs.cache
+C:\Users\helt0\Documents\Visual Studio 2017\Projects\DotnetcoreSignalR\DotnetcoreSignalRClient\obj\Debug\netcoreapp2.0\DotnetcoreSignalRClient.AssemblyInfoInputs.cache
+C:\Users\helt0\Documents\Visual Studio 2017\Projects\DotnetcoreSignalR\DotnetcoreSignalRClient\obj\Debug\netcoreapp2.0\DotnetcoreSignalRClient.AssemblyInfo.cs
+C:\Users\helt0\Documents\Visual Studio 2017\Projects\DotnetcoreSignalR\DotnetcoreSignalRClient\obj\Debug\netcoreapp2.0\DotnetcoreSignalRClient.dll
+C:\Users\helt0\Documents\Visual Studio 2017\Projects\DotnetcoreSignalR\DotnetcoreSignalRClient\obj\Debug\netcoreapp2.0\DotnetcoreSignalRClient.pdb
